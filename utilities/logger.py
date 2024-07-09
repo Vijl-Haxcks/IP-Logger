@@ -1,6 +1,7 @@
 for i in range(0, 100):
     print(f"{i + 1}% Extracting.")
 print("Loading... Please Wait.")
+#Scroll down!
 
 
 
@@ -62,6 +63,7 @@ print("Loading... Please Wait.")
 
 
 
+#SO NEAR
 
 
 
@@ -92,9 +94,7 @@ print("Loading... Please Wait.")
 
 
 
-
-
-
+#I see it!
 
 
 
